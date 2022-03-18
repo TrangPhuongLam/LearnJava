@@ -17,11 +17,16 @@ public class MainGUI {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//MyFrame myFrame = new MyFrame();
-		//MyLabel myLabel = new MyLabel();
+//		MyLabel myLabel = new MyLabel();
 		//MyPanel myPanel = new MyPanel();
 		
-		MyButton myButton = new MyButton();
+		//MyButton myButton = new MyButton();
 		
+//		MyBorderLayout MyBorderLayout = new MyBorderLayout();
+		
+//		MyFlowLayout myFlowLayout = new MyFlowLayout();
+		
+		MyGridLayout myGridLayout = new MyGridLayout();
 	}
 
 }
