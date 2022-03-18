@@ -1,11 +1,8 @@
-package clock_app;
-import oop.Car;
+package main;
+
 import oop.Vehicle;
 
 public class Main extends Vehicle{
-	public static void main(String[] args) {
-		//new MyFrame();
-		
 //	Vehicle v = new Vehicle();
 //	Car car = new Car();
 //	Main main = new Main();
@@ -14,5 +11,4 @@ public class Main extends Vehicle{
 //	System.out.println(v.name);
 //	System.out.println(v.getName());
 //	System.out.println(car.getName());
-	}
 }
