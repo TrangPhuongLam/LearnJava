@@ -26,7 +26,23 @@ public class MainGUI {
 		
 //		MyFlowLayout myFlowLayout = new MyFlowLayout();
 		
-		MyGridLayout myGridLayout = new MyGridLayout();
+//		MyGridLayout myGridLayout = new MyGridLayout();
+		
+//		MyLayeredPane myLayeredPane = new MyLayeredPane();
+		
+//		MyLaunchPage launchPage = new MyLaunchPage();
+		
+//		MyOptionPane optionPane = new MyOptionPane();
+		
+//		MyTextField myTextField = new MyTextField();
+		
+//		MyCheckBox myCheckBox = new MyCheckBox();
+		
+//		MyRadioButton myRadioButton = new MyRadioButton();
+		
+//		MyComboBox myComboBox = new MyComboBox();
+		
+		MySlider mySlider = new MySlider();
 	}
 
 }
